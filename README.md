@@ -1,4 +1,9 @@
-Hello! welcome to my pg
+Interested in the intersection of soil health, environmental health, ecology, and human impacts.
+I aspire to learn and use modern technologies to help preserve and rehabilitate systems to their optimal cultural, and ecological state.
+Currently studying Wetland Science and Management at the University of Washington in Seattle.
+
+M.S. Biosystems Engineering, The University of Arizona
+B.S. Environmental Science, The University of Arizona
 
 <!--
 **bschlottman/bschlottman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
